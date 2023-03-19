@@ -65,7 +65,7 @@
 ## Deploy Locally
 
 - Clone the repo. 
-`git clone https://github.com/Tgedition/Plugins-T.git`
+`git clone https://github.com/TGEDITION/Plugins-T.git`
 
 - Open Cloned Folder.
 `cd Plugins-T`
